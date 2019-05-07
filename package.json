@@ -4,6 +4,7 @@
   "description": "Research for sortable UI and data manip",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Sean",
