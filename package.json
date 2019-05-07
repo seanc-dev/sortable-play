@@ -1,0 +1,16 @@
+{
+  "name": "sortable-test",
+  "version": "1.0.0",
+  "description": "Research for sortable UI and data manip",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sean",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  }
+}
